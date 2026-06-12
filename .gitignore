@@ -1,0 +1,28 @@
+# ---- .NET / Visual Studio build output ----
+[Bb]in/
+[Oo]bj/
+[Oo]ut/
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# ---- Rider / VS Code ----
+.idea/
+.vscode/
+
+# ---- NuGet ----
+*.nupkg
+packages/
+
+# ---- Personal / machine-specific artifacts ----
+# These contain this machine's keyboard MAC addresses and device instance paths,
+# and were the throwaway scripts/exports from the original manual registry work.
+# The tool generates fresh .reg files on demand, so they are not part of the repo.
+*.reg
+*.log
+set-j9-jp-layout.ps1
+fix-j9-jp-layout.ps1
+fix-j9-bt-layout.ps1
+cleanup-napepro.ps1

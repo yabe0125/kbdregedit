@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/KbdLayoutTool.App/KbdLayoutTool.App.csproj" />
+    <Project Path="src/KbdLayoutTool.Core/KbdLayoutTool.Core.csproj" />
+  </Folder>
+</Solution>
